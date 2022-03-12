@@ -13,21 +13,21 @@
 - svgr
 - **Prettier** use with **ESlint** and **Airbnb** code style
 
-# Installation
+### Installation
 ```
 yarn install
 ```
 
-# Whatsapp Web UI for development
+### Whatsapp Web UI for development
 ```
 yarn dev
 ```
-# Storybook for development
+### Storybook for development
 ```
 yarn storybook
 ```
 
-# Preview
+### Preview
 
 ![Light Mode](https://github.com/frekans7/whatsapp-web-ui-clone/blob/master/public/ssLight.png)
 
