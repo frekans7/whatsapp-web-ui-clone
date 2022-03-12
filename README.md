@@ -29,6 +29,8 @@ yarn storybook
 
 ### Preview
 
+https://whatsapp-web-ui-clone-frekans7.vercel.app/
+
 ![Light Mode](https://github.com/frekans7/whatsapp-web-ui-clone/blob/master/public/ssLight.png)
 
 ![Dark Mode](https://github.com/frekans7/whatsapp-web-ui-clone/blob/master/public/ssDark.png)
